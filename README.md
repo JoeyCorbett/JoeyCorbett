@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeyCorbett
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently taking Harvard CS50
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me corbettjoey9@gmail.com
 
