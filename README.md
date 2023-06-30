@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeyCorbett
-- 👀 I’m interested in Building a Web App
+- 👀 I’m interested in Building Web Apps
 - 🌱 I’m currently taking Harvard CS50
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me corbettjoey9@gmail.com
