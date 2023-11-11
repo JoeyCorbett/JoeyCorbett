@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JoeyCorbett
-- 👀 I’m interested in Building Web Apps
+- 👨🏼‍💻 I’m interested in Building Web Apps
 - 🌱 I’m currently learning Web Development
-- 👨🏼‍💻 I’m looking to collaborate on Web Applications
 - 📫 How to reach me corbettjoey9@gmail.com
 
 <!---
