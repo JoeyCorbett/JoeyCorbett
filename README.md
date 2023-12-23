@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Corbett
 ======================================================================================================================================
 
-Computer Science Student and Aspiring Full Stack Web Developer
+Computer Science Student and Aspiring Web Developer
 ---------------------------------------------------
 
+- What I bring to the table: Eagerness to learn and grow in the tech industry. Love to work in a team setting and collaborate on projects. Quick learner and Strong problem solving skills 
+
+- I'm open to entry-level opportunities where I can contribute and grow. Let's connect!
 
 * 🌍  I'm based in New Jersey
-* 🧠  I'm learning Front End Web Design and Javascript via The Odin Project
-* ⭐️  What I bring to the table: Eagerness to learn and grow in the tech industry. Love to work in a team setting and collaborate on projects. Quick learner and Strong problem solving skills 
-* 🤝  I'm open to collaborating on Web Applications
-* 💼  I'm open to entry-level opportunities where I can contribute and grow. Let's connect!
 * ✉️  You can contact me at [corbettjoey9@gmail.com](mailto:corbettjoey9@gmail.com)
+* 🧠  I'm learning Front End Web Design and Javascript via The Odin Project
+* 🤝  I'm open to collaborating on Web Applications
 * ⚡  When I'm not coding, I enjoy Fitness and Reading
 
 ### Skills
@@ -24,3 +25,9 @@ Computer Science Student and Aspiring Full Stack Web Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/JoeyCorbett" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/JoeyCorbett"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeyCorbett&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
