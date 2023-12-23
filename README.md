@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student and Aspiring Web Developer
 ---------------------------------------------------
 
-- What I bring to the table: Eagerness to learn and grow in the tech industry. Love to work in a team setting and collaborate on projects. Quick learner and Strong problem solving skills 
-
-- I'm open to entry-level opportunities where I can contribute and grow. Let's connect!
-
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [corbettjoey9@gmail.com](mailto:corbettjoey9@gmail.com)
 * 🧠  I'm learning Front End Web Design and Javascript via The Odin Project
