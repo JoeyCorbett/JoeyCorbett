@@ -1,4 +1,4 @@
-Hi 👋 My name is Joey
+Hi 👋 My name is Joseph
 ======================================================================================================================================
 
 Computer Science Student, Web Developer, and IT Help Desk Technician
