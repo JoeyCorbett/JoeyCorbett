@@ -6,7 +6,6 @@ Computer Science Student, Web Developer, and IT Help Desk Technician
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [corbettjoey9@gmail.com](mailto:corbettjoey9@gmail.com)
-* 🧠  I'm learning Front End Web Design and Javascript via The Odin Project
 * 🤝  I'm open to collaborating on Web Applications
 * ⚡  When I'm not coding, I enjoy Fitness and Reading
 
