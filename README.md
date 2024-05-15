@@ -6,7 +6,7 @@ Computer Science Student, Web Developer, and IT Help Desk Technician
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [corbettjoey9@gmail.com](mailto:corbettjoey9@gmail.com)
-* 💻 Currently learning web development
+* 💻  Currently learning web development
 * 🤝  I'm open to collaborating on Web Applications
 * ⚡  When I'm not coding, I enjoy Fitness and Reading
 
