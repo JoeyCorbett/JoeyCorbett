@@ -6,7 +6,7 @@
 
 - 🌍  I'm based in New Jersey
 - ✉️  You can contact me at [corbettjoey9@gmail.com](mailto:corbettjoey9@gmail.com)
-- 💻  Currently learning web development
+- 💻  Currently learning Full Stack Web Development
 - 🤝  Open to collaborating on Web Applications
 - ⚡  When I'm not coding, I enjoy fitness and reading
 
