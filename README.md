@@ -4,10 +4,8 @@
 
 
 - 🖥️  See my portfolio at [jcorb.dev](http://jcorb.dev)
-- 💻  Currently building [hackrmap](https://hackrmap.com)
 - ✉️  You can contact me at [corbettjoey9@gmail.com](mailto:corbettjoey9@gmail.com)
 - 🌍  I'm based in New Jersey
-- ⚡  When I'm not coding, I enjoy fitness and reading
 
 ### Skills
 
