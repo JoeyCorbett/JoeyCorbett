@@ -4,8 +4,6 @@
 
 📍 New Jersey  
 
-✉️ [Email](mailto:corbettjoey9@gmail.com)  
-
 ### Tech Stack  
 JavaScript • TypeScript • React • Next.js • Node.js • Express • Supabase • PostgreSQL • MongoDB • Flask • Python  
 
