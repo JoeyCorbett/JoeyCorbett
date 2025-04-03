@@ -8,4 +8,4 @@
 JavaScript • TypeScript • React • Next.js • Node.js • Express • Supabase • PostgreSQL • MongoDB • Flask • Python  
 
 ### Connect  
-[Portfolio](http://jcorb.dev) • [LinkedIn](https://www.linkedin.com/in/jcorb2/) • [Twitter](https://x.com/joey_corb)  
+[Portfolio](http://jcorb.dev) • [LinkedIn](https://www.linkedin.com/in/jcorb2/) • [𝕏](https://x.com/joey_corb)  
