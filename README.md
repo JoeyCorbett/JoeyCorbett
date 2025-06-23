@@ -1,6 +1,6 @@
 # Hey 👋 I'm Joey
 
-🚀 Full-Stack Developer | CS Student | ITS Help Desk Tech
+🚀 Full-Stack Developer / Data Engineer · CS Student · ITS Help Desk Tech
 
 📍 New Jersey  
 
